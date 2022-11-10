@@ -1,0 +1,6 @@
+--------------------
+Date: 6:8:2021
+Time: 4:13
+Phone number: +91_To_number_you_want_to_send
+Message: this is testing protocol
+--------------------
